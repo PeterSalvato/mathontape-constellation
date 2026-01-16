@@ -1,7 +1,7 @@
 title: Math on Tape
 description: Signal Processing & Audio Systems
-url: "https://mathontape.com"
-baseurl: ""
+url: "https://petersalvato.github.io/mathontape-constellation"
+baseurl: "/mathontape-constellation"
 
 markdown: kramdown
 permalink: pretty
