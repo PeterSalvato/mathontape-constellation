@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="portfolio">
+    {{ content }}
+
+    <div class="project-list">
+        {% for project in site.data.projects %}
+            {% include project-card.html
+               title=project.title
+               year=project.year
+               url=project.url
+               type=project.type %}
+        {% endfor %}
+    </div>
+</div>

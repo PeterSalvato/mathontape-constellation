@@ -1,0 +1,13 @@
+- id: ambient-01
+  title: "Ambient Study 01"
+  year: 2025
+  type: "Composition"
+  url: "/projects/ambient-study-01"
+  duration: "12:34"
+
+- id: field-recordings
+  title: "Field Recordings Series"
+  year: 2024
+  type: "Sound Design"
+  url: "/projects/field-recordings-series"
+  duration: "Various"

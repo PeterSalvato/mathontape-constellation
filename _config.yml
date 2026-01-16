@@ -1,0 +1,15 @@
+title: Math on Tape
+description: Signal Processing & Audio Systems
+url: "https://mathontape.com"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+sass:
+  style: compressed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
