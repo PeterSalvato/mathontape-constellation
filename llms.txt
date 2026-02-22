@@ -1,0 +1,23 @@
+# MathOnTape
+
+> Signal flow as compositional architecture. Experimental electronic music.
+
+## About
+
+Most electronic music is composed by intuition. MathOnTape applies signal flow — the engineering discipline of intentional routing — as compositional method. Each component does one job, connects intentionally, ripples predictably.
+
+Dirty analog synths, magnetic tape, feedback loops deliberately routed. The visual identity mirrors the sonic texture: MICR typography (Magnetic Ink Character Recognition — bank check typeface), archival naming conventions, halftone patterns as tape hiss, misregistration as distortion.
+
+You can't pull the design away without breaking the whole thing. Integration is the proof.
+
+## Author
+
+Peter Salvato — Systems architect.
+Website: https://petersalvato.com
+Full case study: https://petersalvato.com/practice/mathontape/
+
+## Contact
+
+Email: peter@petersalvato.com
+GitHub: https://github.com/petersalvato
+LinkedIn: https://linkedin.com/in/petersalvato
